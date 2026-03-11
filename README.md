@@ -29,12 +29,3 @@ This project focuses on cleaning and preparing a dataset containing customer det
 ### Tools Used
 
 Python, pandas, NumPy, Jupyter Notebook
-
-
-
-
-
-
-xactly what they want.
-
-If you want, I can also show you one small GitHub trick that will make your profile look much stronger to the alumnus reviewing applications (most students don’t know this).
